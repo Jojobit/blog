@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+AI, BI and everything data: Welcome to my blog
 ---
 
